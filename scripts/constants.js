@@ -1,0 +1,1 @@
+export const NICKNAME_KEY = "NICKNAME_KEY";
